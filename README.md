@@ -1,2 +1,2 @@
 # Poke-Dex
-This is a Small Website of pok .
+This is a Small Website of poke .
